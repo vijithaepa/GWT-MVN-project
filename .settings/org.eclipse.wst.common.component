@@ -4,7 +4,7 @@
         <wb-resource deploy-path="/WEB-INF/web.xml" source-path="/war/WEB-INF/web.xml"/>
         <wb-resource deploy-path="/" source-path="/target/m2e-wtp/web-resources"/>
         <wb-resource deploy-path="/" source-path="/war" tag="defaultRootSource"/>
-        <property name="context-root" value="mvnGWTProject"/>
         <property name="java-output-path" value="/mvnGWTProject/target/classes"/>
+        <property name="context-root" value="GWT-MVN-project"/>
     </wb-module>
 </project-modules>

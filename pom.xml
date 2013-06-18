@@ -54,7 +54,8 @@
 					</execution>
 				</executions>
 				<configuration>
-					<runTarget>my.package.Application/Application.html</runTarget>
+					<webappDirectory>war</webappDirectory>
+					<runTarget>com.first.gwt.MvnGWTProject/MvnGWTProject.html</runTarget>
 				</configuration>
 			</plugin>
 		</plugins>
